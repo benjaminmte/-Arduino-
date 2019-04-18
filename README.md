@@ -17,7 +17,7 @@
 (關於程式)：
 1. 首先應該添加LIB
 1-1 下載Adafruit-Motor-Shield-library-master.zip ,獲得AFMotor.h
-下載地址：https：//github.com/adafruit/Adafruit-Motor-Shield-library
+或到下載地址：https：//github.com/adafruit/Adafruit-Motor-Shield-library
 1-2 Servo.h LIB 是標準庫不用另外安裝
 
 2. Arduino程式碼 
@@ -27,6 +27,6 @@
 
 3. 上傳至Arduino
 3-1 上傳時，請斷開藍牙連接
-3-2 下載並安裝手機端應用程式：
+3-2 下載並安裝Android手機端應用程式：BT voice control for arduino 
 下載地址：https：//play.google.com/store/apps
 3-3 如果出現連接錯誤，請重置Arduino並重新啟動應用程序。
