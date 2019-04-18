@@ -16,7 +16,7 @@
 
 (關於程式)：
 1. 首先應該添加LIB
-1-1 下載AFMotor.h LIB：
+1-1 下載Adafruit-Motor-Shield-library-master.zip ,獲得AFMotor.h
 下載地址：https：//github.com/adafruit/Adafruit-Motor-Shield-library
 1-2 Servo.h LIB 是標準庫不用另外安裝
 
